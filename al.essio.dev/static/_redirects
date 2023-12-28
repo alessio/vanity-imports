@@ -1,0 +1,5 @@
+/ https://github.com/alessio 302
+
+/emperror/* go-get=1 /alessio/pkg/index.html 200
+/emperror/* https://godoc.org/al.essio.dev/alessio 302
+

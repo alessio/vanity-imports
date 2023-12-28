@@ -1,0 +1,13 @@
+{
+    "domain": "al.essio.dev",
+    "repositories": [
+        {
+            "prefix": "pkg/tools",
+            "url": "https://github.com/alessio/unixtools"
+        },
+        {
+            "prefix": "cmd/runparts",
+            "url": "https://github.com/alessio/runparts"
+        }
+    ]
+}
