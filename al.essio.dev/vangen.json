@@ -3,6 +3,23 @@
     "repositories": [
         {
             "prefix": "pkg/tools",
+            "subs": [
+                "cmd/elvoke",
+                "cmd/mcd",
+                "cmd/pathctl",
+                "cmd/popbak",
+                "cmd/portup",
+                "cmd/pushbak",
+                "cmd/refiles",
+                "cmd/seq",
+                "internal/chain",
+                "internal/dirsnapshots",
+                "internal/file",
+                "internal/path",
+                "internal/seq",
+                "internal/version",
+                "pathlist"
+            ],
             "url": "https://github.com/alessio/unixtools"
         },
         {
