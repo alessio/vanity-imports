@@ -25,6 +25,10 @@
         {
             "prefix": "cmd/runparts",
             "url": "https://github.com/alessio/runparts"
+        },
+        {
+            "prefix": "cmd/mkdmg",
+            "url": "https://github.com/alessio/mkdmg"
         }
     ]
 }
