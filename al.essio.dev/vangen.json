@@ -18,7 +18,8 @@
                 "internal/path",
                 "internal/seq",
                 "internal/version",
-                "pathlist"
+                "pathlist",
+                "hdiutil",
             ],
             "url": "https://github.com/alessio/unixtools"
         },
